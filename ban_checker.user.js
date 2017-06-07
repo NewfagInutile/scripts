@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ban Checker
-// @version      0.1
-// @description  try to take over the world!
+// @version      alpha 1.0
+// @description  Vérifiez si vos pseudos sont bannis.
 // @author       NewfagInutile
 // @match        http://www.jeuxvideo.com/forums/0-51-0-1-0-1-0-blabla-18-25-ans.htm
 // @grant        none
