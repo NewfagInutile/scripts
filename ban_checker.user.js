@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Ban Checker
-// @version      alpha 1.0
+// @version      1.0_alpha
 // @description  Vérifiez si vos pseudos sont bannis.
 // @author       NewfagInutile
 // @match        http://www.jeuxvideo.com/forums/0-51-0-1-0-1-0-blabla-18-25-ans.htm
