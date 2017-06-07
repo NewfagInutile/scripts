@@ -4,7 +4,6 @@
 // @description  try to take over the world!
 // @author       NewfagInutile
 // @match        http://www.jeuxvideo.com/forums/0-51-0-1-0-1-0-blabla-18-25-ans.htm
-// @match        http://www.jeuxvideo.com/forums/42-*
 // @grant        none
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
 // @icon         http://image.noelshack.com/fichiers/2016/43/1477661624-ddb2.jpg
