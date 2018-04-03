@@ -12,7 +12,7 @@
     'use strict';
 
      var btn = document.createElement("BUTTON");
-     var trc = document.getElementsByClassName("message-wrapper flex-100")[0];
+     var trc = document.querySelectorAll(".message-wrapper.flex-100")[0];
      trc.appendChild(btn);
      btn.classList.add("pull-right", "md-raised", "no-mb", "md-accent", "mr-1", "md-button", "ng-binding", "ng-scope", "md-ink-ripple");
      var mdbutton = document.getElementsByClassName("md-button");
