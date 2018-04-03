@@ -1,4 +1,4 @@
-// ==UserScript==
+// ==UserScript=
 // @name         Convertisseur
 // @version      1.0
 // @description  Convertisseur de smiley pour 2sucres.org
