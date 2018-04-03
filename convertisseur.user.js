@@ -3,7 +3,7 @@
 // @version      1.0
 // @description  Convertisseur de smiley pour 2sucres.org
 // @author       NewfagInutile
-// @match        2sucres.org/*
+// @match        https://2sucres.org/*
 // @grant        none
 // @icon         https://image.noelshack.com/fichiers/2017/49/6/1512782385-smileyjvc-noel.gif
 // ==/UserScript==
